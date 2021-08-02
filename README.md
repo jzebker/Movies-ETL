@@ -76,3 +76,30 @@ Deliverable 4: Create the Movie Database
 
 ## Deliverable 3
 [Notebook](https://github.com/jzebker/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)
+
+• extracts and transforms the kaggle data and the ratings data
+
+• cleans kaggle data
+
+<p align="center">
+  <img width="920" alt="cleankaggle" src="https://user-images.githubusercontent.com/84994321/127934716-3c20c88e-732e-42d8-a3db-a15d30495aef.png">
+</p>
+
+• merges wiki and kaggle data
+
+<p align="center">
+  <img width="911" alt="mergedf" src="https://user-images.githubusercontent.com/84994321/127934760-19102b7f-5f72-47fd-b0a1-7ecfc1124aee.png">
+</p>
+
+• drops unnecessary columns and fills in missing data in merged DataFrame
+
+<p align="center">
+  <img width="1128" alt="dropandfillmissing" src="https://user-images.githubusercontent.com/84994321/127934864-8b74f29d-2d66-4423-858f-62cde1be2da2.png">
+</p>
+
+• filters merged DataFrame for specific columns and renames them appropriately
+
+<p align="center">
+  <img width="1178" alt="filterandrename" src="https://user-images.githubusercontent.com/84994321/127934916-b0d029df-ad32-4818-94a4-6b35ca28e27c.png">
+</p>
+
