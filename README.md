@@ -39,3 +39,5 @@ Deliverable 4: Create the Movie Database
   <img width="350" alt="ratingsoutput" src="https://user-images.githubusercontent.com/84994321/127931795-be7e9729-eed5-4452-95a4-a3a5c259b83c.png">
 </p>
 
+## Deliverable 2
+[Notebook](https://github.com/jzebker/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
