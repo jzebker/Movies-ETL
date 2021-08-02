@@ -120,6 +120,10 @@ Deliverable 4: Create the Movie Database
 ## Deliverable 4
 [Notebook](https://github.com/jzebker/Movies-ETL/blob/main/ETL_create_database.ipynb)
 
+[movies_query.png](https://github.com/jzebker/Movies-ETL/blob/main/resources/movies_query.png)
+
+[ratings_query.png](https://github.com/jzebker/Movies-ETL/blob/main/resources/ratings_query.png)
+
 • replaces current "movies" table if it exists in database
 
 <p align="center">
