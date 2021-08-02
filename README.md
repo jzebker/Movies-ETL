@@ -119,3 +119,21 @@ Deliverable 4: Create the Movie Database
 
 ## Deliverable 4
 [Notebook](https://github.com/jzebker/Movies-ETL/blob/main/ETL_create_database.ipynb)
+
+• replaces current "movies" table if it exists in database
+
+<p align="center">
+  <img width="596" alt="movietablereplace" src="https://user-images.githubusercontent.com/84994321/127936358-8648bb40-6d97-435e-81ac-c79e7c6bb16d.png">
+</p>
+
+• loads "ratings" data to sql database
+
+<p align="center">
+  <img width="833" alt="ratingtosql" src="https://user-images.githubusercontent.com/84994321/127936407-22181023-6da4-4f01-8134-ffea6e5896a2.png">
+</p>
+
+• elapsed time for database creation is in notebook linked above for Deliverable 4 and pictured below
+
+<p align="center">
+  <img width="807" alt="elapsedtime" src="https://user-images.githubusercontent.com/84994321/127936463-e832015c-db3e-4bc1-884f-7ef47cbe2298.png">
+</p>
