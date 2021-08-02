@@ -105,12 +105,17 @@ Deliverable 4: Create the Movie Database
   <img width="1178" alt="filterandrename" src="https://user-images.githubusercontent.com/84994321/127934916-b0d029df-ad32-4818-94a4-6b35ca28e27c.png">
 </p>
 
-• cleans the ratings counts
+• cleans the ratings counts, then merges ratings with movies_df to create movies_with_ratings_df, and fills in empty values with "0"
 
-• merges ratings with movies_df to create movies_with_ratings_df
+<p align="center">
+  <img width="1032" alt="ratingsextracttransform" src="https://user-images.githubusercontent.com/84994321/127935711-9eb07d01-4509-40ef-96db-d6a5e7845929.png">
+</p>
 
-• fills in empty values in movies_with_ratings_df with "0"
+• output for movies_with_ratings_df and movies_df is in the notebook linked above for Deliverable 3
 
-• output for movies_df is in the notebook linked above for Deliverable 3
+<p align="center">
+  <img width="478" alt="movies_with_ratingsoutput" src="https://user-images.githubusercontent.com/84994321/127935799-4aa16e1d-eb1d-4b93-8b4c-80543017e8b3.png"><img width="478" alt="movies_with_ratingsoutput" src="https://user-images.githubusercontent.com/84994321/127935809-a8d54791-f792-468f-86ef-8c176bc60dec.png">
+</p>
 
-• output for movies_with_raatings_df is in the notebook linked above for Deliverable 3
+## Deliverable 4
+[Notebook](https://github.com/jzebker/Movies-ETL/blob/main/ETL_create_database.ipynb)
