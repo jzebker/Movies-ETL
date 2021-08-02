@@ -42,6 +42,8 @@ Deliverable 4: Create the Movie Database
 ## Deliverable 2
 [Notebook](https://github.com/jzebker/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
 
+• extracts and transforms wiki movies data
+
 • filters out TV shows
 
 <p align="center">
@@ -103,3 +105,12 @@ Deliverable 4: Create the Movie Database
   <img width="1178" alt="filterandrename" src="https://user-images.githubusercontent.com/84994321/127934916-b0d029df-ad32-4818-94a4-6b35ca28e27c.png">
 </p>
 
+• cleans the ratings counts
+
+• merges ratings with movies_df to create movies_with_ratings_df
+
+• fills in empty values in movies_with_ratings_df with "0"
+
+• output for movies_df is in the notebook linked above for Deliverable 3
+
+• output for movies_with_raatings_df is in the notebook linked above for Deliverable 3
