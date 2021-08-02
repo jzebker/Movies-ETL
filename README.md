@@ -41,3 +41,33 @@ Deliverable 4: Create the Movie Database
 
 ## Deliverable 2
 [Notebook](https://github.com/jzebker/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
+
+• filters out TV shows
+
+<p align="center">
+  <img width="574" alt="tvfilter" src="https://user-images.githubusercontent.com/84994321/127932857-3c741b49-aa4f-4ccf-b97c-6e9bd36ab740.png">
+</p>
+
+• extracts IMDb ID from imdb_link with regex, includes try-except block for error handling
+
+<p align="center">
+  <img width="1046" alt="imdbidtryexcept" src="https://user-images.githubusercontent.com/84994321/127932959-080df79c-1e2e-4e67-be63-3f277211d6cf.png">
+</p>
+
+• removes columns with >90% null values, then converts box_office values to string and matches 2 different forms with regex
+
+<p align="center">
+  <img width="1176" alt="nonnullregexboxoffice" src="https://user-images.githubusercontent.com/84994321/127933239-24fea834-af79-4c1d-82f7-a48a07490d35.png">
+</p>
+
+• cleans ***box office*** and ***budget*** columns using the "parse_dollars" function and ***release date*** and ***running time*** columns with regex date forms and time forms respectively
+
+<p align="center">
+  <img width="1186" alt="cleancolumnsparsedollars" src="https://user-images.githubusercontent.com/84994321/127933716-22609fc5-391d-4c86-affc-5774a5b2fd60.png">
+</p>
+
+• wiki_movies output is in the notebook linked above for Deliverable 2
+
+<p align="center">
+  <img width="587" alt="wiki_movies_dfcolumns" src="https://user-images.githubusercontent.com/84994321/127933837-1bf5f848-6a2f-4340-bb18-0b09c9329b95.png"><img width="583" alt="wiki_movies_dfoutput" src="https://user-images.githubusercontent.com/84994321/127933856-1c09b41b-7097-43ac-9265-81edb2f25a53.png">
+</p>
