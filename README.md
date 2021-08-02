@@ -69,5 +69,5 @@ Deliverable 4: Create the Movie Database
 • wiki_movies output is in the notebook linked above for Deliverable 2
 
 <p align="center">
-  <img width="587" alt="wiki_movies_dfcolumns" src="https://user-images.githubusercontent.com/84994321/127933837-1bf5f848-6a2f-4340-bb18-0b09c9329b95.png"><img width="583" alt="wiki_movies_dfoutput" src="https://user-images.githubusercontent.com/84994321/127933856-1c09b41b-7097-43ac-9265-81edb2f25a53.png">
+  <img width="583" alt="wiki_movies_dfoutput" src="https://user-images.githubusercontent.com/84994321/127933856-1c09b41b-7097-43ac-9265-81edb2f25a53.png"><img width="587" alt="wiki_movies_dfcolumns" src="https://user-images.githubusercontent.com/84994321/127933837-1bf5f848-6a2f-4340-bb18-0b09c9329b95.png">
 </p>
