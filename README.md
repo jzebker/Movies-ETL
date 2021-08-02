@@ -114,7 +114,7 @@ Deliverable 4: Create the Movie Database
 • output for movies_with_ratings_df and movies_df is in the notebook linked above for Deliverable 3
 
 <p align="center">
-  <img width="478" alt="movies_with_ratingsoutput" src="https://user-images.githubusercontent.com/84994321/127935799-4aa16e1d-eb1d-4b93-8b4c-80543017e8b3.png"><img width="478" alt="movies_with_ratingsoutput" src="https://user-images.githubusercontent.com/84994321/127935809-a8d54791-f792-468f-86ef-8c176bc60dec.png">
+  <img width="478" alt="movies_with_ratingsoutput" src="https://user-images.githubusercontent.com/84994321/127935799-4aa16e1d-eb1d-4b93-8b4c-80543017e8b3.png"><img width="356" alt="movies_dfoutput" src="https://user-images.githubusercontent.com/84994321/127935920-516434c5-6931-440e-b3f0-13970c676cb5.png">
 </p>
 
 ## Deliverable 4
